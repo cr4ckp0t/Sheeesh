@@ -1,7 +1,7 @@
-## Interface: 100005
+## Interface: 100007
 ## Author: Crackpot
 ## Title: Sheeesh
-## Version: 1.0.2
+## Version: 1.0.3
 ## Notes: This totally wasn't Alex. . .
 
 Libraries\LibStub\LibStub.lua
