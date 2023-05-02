@@ -1,7 +1,7 @@
-## Interface: 100007
+## Interface: 100100
 ## Author: Crackpot
 ## Title: Sheeesh
-## Version: 1.0.3
+## Version: 1.0.4
 ## Notes: This totally wasn't Alex. . .
 
 Libraries\LibStub\LibStub.lua
@@ -9,3 +9,4 @@ Libraries\CallbackHandler-1.0\CallbackHandler-1.0.xml
 Libraries\LibSharedMedia-3.0\lib.xml
 
 Sheeesh.lua
+
