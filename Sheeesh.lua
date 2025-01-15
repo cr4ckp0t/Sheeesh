@@ -1,5 +1,6 @@
 -- Sheesh!
 local LSM = LibStub("LibSharedMedia-3.0")
+LSM:Register("sound", "Alex - Queen Moan", [[Interface\AddOns\Sheeesh\Media\alex-queenmoan.mp3]])
 LSM:Register("sound", "Sheeesh", [[Interface\AddOns\Sheeesh\Media\sheeesh.mp3]])
 LSM:Register("sound", "Brobeans Ecstasy", [[Interface\AddOns\Sheeesh\Media\Brobeans.ogg]])
 LSM:Register("sound", "Phay - Group 1 Soak", [[Interface\AddOns\Sheeesh\Media\phay-group1-soak.mp3]])
