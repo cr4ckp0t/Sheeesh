@@ -1,8 +1,8 @@
-## Interface: 110100
+## Interface: 110105
 ## Author: Crackpot
 ## Title: Sheeesh
 ## IconTexture: Interface\AddOns\Sheeesh\Media\crackpot
-## Version: 1.1.11
+## Version: 1.1.12
 ## Notes: This totally wasn't Alex. . .
 
 Libraries\LibStub\LibStub.lua
@@ -10,6 +10,7 @@ Libraries\CallbackHandler-1.0\CallbackHandler-1.0.xml
 Libraries\LibSharedMedia-3.0\lib.xml
 
 Sheeesh.lua
+
 
 
 
